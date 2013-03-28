@@ -4888,6 +4888,10 @@ input[type="submit"].btn.btn-mini {
   margin-left: 0;
 }
 
+.modal-hidden {
+  display: none;
+}
+
 .tooltip {
   position: absolute;
   z-index: 1030;
