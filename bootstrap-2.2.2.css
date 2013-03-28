@@ -3318,6 +3318,10 @@ input[type="submit"].btn.btn-mini {
   text-decoration: none;
 }
 
+.btn-hidden {
+  display: none;
+}
+
 .btn-group {
   position: relative;
   display: inline-block;
@@ -3560,6 +3564,10 @@ input[type="submit"].btn.btn-mini {
   -webkit-border-radius: 0 0 6px 6px;
   -moz-border-radius: 0 0 6px 6px;
   border-radius: 0 0 6px 6px;
+}
+
+.btn-group-hidden {
+  display: none;
 }
 
 .alert {
@@ -4022,6 +4030,10 @@ input[type="submit"].btn.btn-mini {
   text-decoration: none;
   background-color: transparent;
   cursor: default;
+}
+
+.tabbable-hidden {
+  display: none;
 }
 
 .navbar {
@@ -4708,6 +4720,10 @@ input[type="submit"].btn.btn-mini {
 .pagination-mini ul > li > span {
   padding: 0px 6px;
   font-size: 10.5px;
+}
+
+.pagination-hidden {
+  display: none;
 }
 
 .pager {
@@ -5509,6 +5525,10 @@ a.label:hover, a.badge:hover {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 
+.progress-hiden {
+  display: none;
+}
+
 .progress.vertical {
   width: 20px;
   height: 100%;
@@ -5679,6 +5699,10 @@ a.label:hover, a.badge:hover {
 
 .carousel-caption p {
   margin-bottom: 0;
+}
+
+.carousel-hidden {
+  display: none;
 }
 
 .hero-unit {
