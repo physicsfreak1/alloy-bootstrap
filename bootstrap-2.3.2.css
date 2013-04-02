@@ -4910,6 +4910,10 @@ input[type="submit"].btn.btn-mini {
   display: none;
 }
 
+.modal-content {
+  overflow: hidden;
+}
+
 .tooltip {
   position: absolute;
   z-index: 1030;
