@@ -5119,6 +5119,10 @@ input[type="submit"].btn.btn-mini {
   bottom: -10px;
 }
 
+.popover-hidden {
+  display: none;
+}
+
 .thumbnails {
   margin-left: -20px;
   list-style: none;
