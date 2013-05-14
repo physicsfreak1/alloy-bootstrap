@@ -9,8 +9,8 @@
  */
 
 // Core variables and mixins
+@import "variables-alloy"; // This override needs to load it's variables before bootstrap's
 @import "variables"; // Modify this for custom colors, font-sizes, etc
-@import "variables-alloy"; // Modify this for custom colors, font-sizes, etc
 @import "mixins";
 
 // CSS Reset
