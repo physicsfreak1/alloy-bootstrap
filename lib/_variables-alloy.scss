@@ -44,21 +44,21 @@
 
 // Buttons
 // -------------------------
-$btnBackgroundHighlight:            darken($white, 7%);
+$btnBackgroundHighlight:            darken(#FFF, 7%) !default;
 
-$btnPrimaryBackground:              #3fcaf4;
-$btnPrimaryBackgroundHighlight:     adjust-hue($btnPrimaryBackground, 20%);
+$btnPrimaryBackground:              #3fcaf4 !default;
+$btnPrimaryBackgroundHighlight:     adjust-hue($btnPrimaryBackground, 20%) !default;
 
-$btnInfoBackground:                 #3c8bf3;
-$btnInfoBackgroundHighlight:        #0f6ce7;
+$btnInfoBackground:                 #3c8bf3 !default;
+$btnInfoBackgroundHighlight:        #0f6ce7 !default;
 
-$btnSuccessBackground:              #bacd29;
-$btnSuccessBackgroundHighlight:     #a1bd17;
+$btnSuccessBackground:              #bacd29 !default;
+$btnSuccessBackgroundHighlight:     #a1bd17 !default;
 
-$btnDangerBackground:               #ff3019;
-$btnDangerBackgroundHighlight:      #cf0404;
+$btnDangerBackground:               #ff3019 !default;
+$btnDangerBackgroundHighlight:      #cf0404 !default;
 
-$btnInverseBackground:              #333;
+$btnInverseBackground:              #333 !default;
 
 
 // Forms
