@@ -134,8 +134,12 @@ $btnInverseBackground:              #333 !default;
 // Tooltips and popovers
 // -------------------------
 
-
-
+// Help tooltip
+$helpTooltipColor:            #535353 !default;
+$helpTooltipBackground:       #fdfaec !default;
+$helpTooltipBorderColor:      #b0ad95 !default;
+$helpTooltipArrowColor:       $helpTooltipBorderColor !default;
+$helpTooltipFontSize:         14px !default;
 
 // GRID
 // --------------------------------------------------
